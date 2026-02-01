@@ -1,2 +1,3 @@
 # FastAPI
-Revising FastAPI, trsting an making apis 
+Revising FastAPI, testing an making apis 
+
